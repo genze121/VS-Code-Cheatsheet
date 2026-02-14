@@ -1,4 +1,4 @@
-## 🚀 CHEAT SHEET FOR VSCODE ##
+l## 🚀 CHEAT SHEET FOR VSCODE ##
 
 > Multi-Line Cursor for fast productivity
 
@@ -7,21 +7,21 @@
 > Move & Copy multiple times
 
     Move ==> alt + up/down arrow  
-    Copy ==> shift + alt + down-arrow or       shift + alt + up-arrow
+    Copy ==> shift + alt + down-arrow or shift + alt + up-arrow
 
 > Commenting like a pro
 
-ctl + L to highlight the code and then comment it.
+- <mark style="color:red; font-weight:700;padding:0.5rem">ctl + L</mark> to highlight the code and then comment it.
 
-4) Open terminal like a pro
+> Open terminal like a pro
 
-ctrl + ` to open a terminal.
+- <mark style="color:red; font-weight:700;padding:0.5rem">ctrl + `</mark> to open a terminal.
 
-5) Using replace in vs-code
+> Using replace in vs-code
 
 ctrl + H to replace.
 
-6) Clear the terminal
+> Clear the terminal
 
 ctrl + k
 
