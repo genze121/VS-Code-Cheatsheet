@@ -1,4 +1,4 @@
-l## 🚀 CHEAT SHEET FOR VSCODE ##
+## 🚀 CHEAT SHEET Tutorial FOR VSCODE
 
 > Multi-Line Cursor for fast productivity
 
