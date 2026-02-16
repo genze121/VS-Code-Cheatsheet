@@ -2,7 +2,7 @@
 
 > Multi-Line Cursor for fast productivity
 
-    ctrl +d to match the word pattern and after matching again use ctrl+d to use multi-line cursor
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + d</mark> to match the word pattern and after matching again use ctrl+d to use multi-line cursor
 
 > Move & Copy multiple times
 
@@ -11,11 +11,11 @@
 
 > Commenting like a pro
 
-- <mark style="color:red; font-weight:700;padding:0.5rem">ctl + L</mark> to highlight the code and then comment it.
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + L</mark> to highlight the code and then comment it.
 
 > Open terminal like a pro
 
-- <mark style="color:red; font-weight:700;padding:0.5rem">ctrl + `</mark> to open a terminal.
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + `</mark> to open a terminal.
 
 > Using replace in vs-code
 
