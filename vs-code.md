@@ -6,8 +6,8 @@
 
 > Move & Copy multiple times
 
-    Move ==> alt + up/down arrow  
-    Copy ==> shift + alt + down-arrow or shift + alt + up-arrow
+- Move ==> alt + up/down arrow  
+- Copy ==> shift + alt + down-arrow or shift + alt + up-arrow
 
 > Commenting like a pro
 
@@ -19,11 +19,11 @@
 
 > Using replace in vs-code
 
-ctrl + H to replace.
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + H</mark>  to replace.
 
 > Clear the terminal
 
-ctrl + k
+- ctrl + k
 
 
 
