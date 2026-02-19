@@ -17,6 +17,8 @@
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + `</mark> to open a terminal.
 
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + shift + `</mark> to open a terminal.
+
 > Using replace in vs-code
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + H</mark>  to replace.
