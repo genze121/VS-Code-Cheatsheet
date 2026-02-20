@@ -1,4 +1,4 @@
-## 🚀 Cheat Sheet Tutorial For VSCODE
+## 🚀 Cheat Sheet Tutorial For VSCode
 
 > Multi-Line Cursor for fast productivity
 
@@ -6,8 +6,8 @@
 
 > Move & Copy multiple times
 
-- Move ==> alt + up/down arrow  
-- Copy ==> shift + alt + down-arrow or shift + alt + up-arrow
+- Move ➡️ Alt + up/down arrow  
+- Copy ➡️ Shift + Alt + down-arrow or shift + alt + up-arrow
 
 > Commenting like a pro
 
