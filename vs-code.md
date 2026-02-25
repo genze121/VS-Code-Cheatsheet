@@ -27,4 +27,8 @@
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + k</mark>
 
+----
+
 ✅ Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
+
+----
