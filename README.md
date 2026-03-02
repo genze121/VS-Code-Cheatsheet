@@ -2,11 +2,11 @@
 
 Welcome to the VS Code Cheatsheet repository! This is a helpful guide for VS Code shortcuts and tips.
 
-## Getting Started
+## ➡️ Getting Started
 
 This cheatsheet contains useful information about Visual Studio Code features and keyboard shortcuts.
 
-## Contributing
+## 👾 Contributing
 
 Feel free to contribute to this cheatsheet by submitting pull requests with improvements or additional shortcuts.
 
