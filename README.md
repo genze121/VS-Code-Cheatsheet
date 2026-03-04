@@ -1,6 +1,12 @@
 # <img src="image.png" width="20" height="20"> VS Code CheatSheet
 
-Welcome to the VS Code Cheatsheet repository! This is a helpful guide for VS Code shortcuts and tips.
+😍 Welcome to the VS Code Cheatsheet repository! This is a helpful guide for VS Code shortcuts and tips.
+
+## 📋 Table of Contents
+
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## ➡️ Getting Started
 

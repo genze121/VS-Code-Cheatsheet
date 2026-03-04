@@ -6,7 +6,8 @@
 
 ## Move & Copy multiple times
 
-- Move ➡️ Alt + up/down arrow  
+- Move ➡️ Alt + up (⬆️) arrow ⟶ Move line up
+- Move ➡️ Alt + down (⬇️) arrow ⟶ Move line down
 - Copy ➡️ Shift + Alt + down-arrow or shift + alt + up-arrow
 
 ## Commenting like a pro
