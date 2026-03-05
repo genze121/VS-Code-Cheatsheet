@@ -28,12 +28,12 @@
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + k</mark>
 
-## Quick File Search (🔥 fastest way to open anything )
+## Quick File Search (🔥Fastest way to open anything )
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + P</mark>
 
 ----
 
-✅ Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
+✅ **Credits**: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
 
 ----
