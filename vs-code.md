@@ -1,6 +1,6 @@
 ## 🚀👨🏼‍💻 Cheat Sheet Tutorial For VSCode
 
-## Multi-Line Cursor for fast productivity 
+## Multi-Line Cursor for fast productivity
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + d</mark> to match the word pattern and after matching again use ctrl+d to use multi-line cursor
 
@@ -8,7 +8,7 @@
 
 - Move ➡️ Alt + up (⬆️) arrow ⟶ **Move line up**
 - Move ➡️ Alt + down (⬇️) arrow ⟶ **Move line down**
-- Copy ➡️ Shift + Alt + down-arrow or shift + alt + up-arrow
+- Copy ➡️ **Shift + Alt + down-arrow** or **shift + alt + up-arrow**
 
 ## Commenting like a pro
 
@@ -22,7 +22,7 @@
 
 ## Using replace in vs-code
 
-- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + H</mark>  to replace.
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + H</mark> to replace.
 
 ## Clear the terminal
 
@@ -32,8 +32,8 @@
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + P</mark>
 
-----
+---
 
 ✅ **Credits**: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
 
-----
+---
