@@ -24,6 +24,8 @@
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + H</mark> to replace.
 
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + F</mark> to find/search/replace.
+
 ## 🎱 Clear the terminal
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + k</mark>
