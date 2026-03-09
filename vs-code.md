@@ -37,3 +37,5 @@
 ✅ **Credits**: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
 
 ---
+
+**Copyright 2026 ©️ [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma") All Rights Reserved.**
