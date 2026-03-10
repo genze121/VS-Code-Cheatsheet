@@ -10,9 +10,7 @@
 
 ## ➡️ Getting Started
 
-This **Cheat Sheet** contains useful information about Visual Studio Code features and keyboard shortcuts. Navigate to 
-[**vs-code.md**](https://github.com/genze121/VS-Code-Cheatsheet/blob/master/vs-code.md "VS Code Tips & Tricks")
-file for shortcut tips and tricks.
+This **Cheat Sheet** contains useful information about Visual Studio Code features and keyboard shortcuts. Navigate to [**vs-code.md**](https://github.com/genze121/VS-Code-Cheatsheet/blob/master/vs-code.md "VS Code Tips & Tricks") for expert VS Code shortcuts and productivity workflows.
 
 ## 👾 Contributing
 
