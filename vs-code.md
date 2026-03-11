@@ -3,7 +3,11 @@
 **🔥 Core Productivity Shortcuts**
 --
 
-- **`**Ctrl + Shift + P**`** -> **Open Command Palette**
+- **`Ctrl + Shift + P`** -> **Open Command Palette**
+
+- **`Ctrl + P`** -> **Quick Open file by name**
+
+- **`Ctrl + Shift + N`** -> **New Window**
 
 ## ✨ Multi-Line Cursor for fast productivity
 
