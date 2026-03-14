@@ -11,6 +11,10 @@
 
 - **`Ctrl + W`** -> **Close editor tab**
 
+- **`Ctrl + \\`** -> **Split Editor**
+
+- **`Ctrl + 1/2/3`** -> **Focus editor group**
+
 ## ✨ Multi-Line Cursor for fast productivity
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + d</mark> to match the word pattern and after matching again use ctrl+d to use multi-line cursor
