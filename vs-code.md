@@ -23,7 +23,5 @@
 
 > Clear the terminal
 
-- ctrl + k
-
-
+- <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + k</mark>
 
