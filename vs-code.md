@@ -1,13 +1,13 @@
 ## 🚀👨🏼‍💻 Cheat Sheet Tutorial For VSCode
 
-## Multi-Line Cursor for fast productivity
+## Multi-Line Cursor for fast productivity 
 
 - <mark style="color:red; font-weight:700;padding:0.2rem">ctrl + d</mark> to match the word pattern and after matching again use ctrl+d to use multi-line cursor
 
 ## Move & Copy multiple times
 
-- Move ➡️ Alt + up (⬆️) arrow ⟶ Move line up
-- Move ➡️ Alt + down (⬇️) arrow ⟶ Move line down
+- Move ➡️ Alt + up (⬆️) arrow ⟶ **Move line up**
+- Move ➡️ Alt + down (⬇️) arrow ⟶ **Move line down**
 - Copy ➡️ Shift + Alt + down-arrow or shift + alt + up-arrow
 
 ## Commenting like a pro
