@@ -1,4 +1,5 @@
-## 🚀👨🏼‍💻 Cheat Sheet Tutorial For VSCode
+🚀👨🏼‍💻 **Cheat Sheet Tutorial For VSCode**
+--
 
 **🔥 Core Productivity Shortcuts**
 --
@@ -14,6 +15,8 @@
 - **`Ctrl + \\`** -> **Split Editor**
 
 - **`Ctrl + 1/2/3`** -> **Focus editor group**
+
+<hr>
 
 ## ✨ Multi-Line Cursor for fast productivity
 
